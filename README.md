@@ -1,8 +1,8 @@
-# NGRX Clean Code
+# NgRx Clean Code
 
 ## Introduction
 
-A list of NGRX concepts, features and a series of guidelines and good practices of how to use NGRX in Agular.
+A list of NgRx concepts, features and a series of guidelines and good practices of how to use NgRx in Agular.
 
 ## Repo
 
